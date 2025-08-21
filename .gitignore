@@ -1,7 +1,8 @@
 node_modules
-package.json
-package-lock.json
-env.json
 __temp_features*/
 runs
 reports
+*.env
+logs
+.DS_Store
+.memory.json
